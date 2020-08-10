@@ -1,8 +1,19 @@
-### Hi, I'm Siki 👋
+## Hi, I'm Siki 👋
 
-## I'm a developer/designer living in Canada 🇨🇦🇦
-- 💼 UI/UX Developer @ Fintros
+### I'm a developer/designer living in Canada 🇨🇦
 
-### Check me out:
+#### Currently @ Fintros as a UI/UX Developer 💻
 
-### Languages and Tools:
+#### Check me out:
+- [Portfolio](https://www.sinisad.co)
+- [LinkedIn](https://www.linkedin.com/in/sinisadamjanovic/)
+- [Dribbble](https://dribbble.com/sdamjanovic)
+
+#### Languages and Tools:
+- ReactJS
+- Javascript (ES6)
+- HTML 5
+- CSS
+- Styled Components
+- Figma, Sketch & XD
+- Git
