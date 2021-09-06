@@ -1,4 +1,4 @@
-## Hi, I'm Siki 👋
+## Hi, I'm Sinisa 👋
 
 ### I'm a developer/designer living in Canada 🇨🇦
 
