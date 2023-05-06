@@ -1,11 +1,11 @@
-## Hi, I'm Sinisa 👋
+## Hi, I'm Siki 👋
 
 ### I'm a developer/designer living in Canada 🇨🇦
 
 #### Currently @ Fintros as a UI/UX Developer 💻
 
 #### Check me out:
-- [Portfolio](https://www.sinisad.co)
+- [Portfolio](https://www.siki.fyi)
 - [LinkedIn](https://www.linkedin.com/in/sinisadamjanovic/)
 
 #### Languages and Tools:
