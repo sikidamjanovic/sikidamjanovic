@@ -2,7 +2,7 @@
 
 ### I'm a developer/designer living in Canada 🇨🇦
 
-#### Currently @ Boxhub as a Frontend Engineer 💻
+#### Previously @ Boxhub as a Frontend Engineer 💻
 
 #### Check me out:
 - [Portfolio](https://www.siki.fyi)
@@ -15,5 +15,5 @@
 - Nextjs
 - HTML 5 / CSS
 - Styled Components
-- Figma, Sketch & XD
+- Figma
 - Git
